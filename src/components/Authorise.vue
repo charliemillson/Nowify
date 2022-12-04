@@ -1,6 +1,6 @@
 <template>
   <div class="authorise">
-    <h1 class="authorise__heading">Nowify</h1>
+    <h1 class="authorise__heading">Hi Charlie</h1>
 
     <p class="authorise__copy">
       Nowify is a simple Spotify 'Now Playing' screen designed for the Raspberry
